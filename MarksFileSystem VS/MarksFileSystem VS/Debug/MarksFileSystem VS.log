@@ -1,0 +1,26 @@
+﻿  main.cpp
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(24): warning C4553: '==': result of expression not used; did you intend '='?
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(102): warning C4552: '>>': result of expression not used
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(123): warning C4552: '>>': result of expression not used
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(141): warning C4552: '<<': result of expression not used
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\bitarrays.h(162): warning C4552: '<<': result of expression not used
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(52): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(59): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(60): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(62): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(63): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(64): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(84): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(104): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(109): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(115): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(118): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(131): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(137): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\git\marksfilesystem\marksfilesystem vs\marksfilesystem vs\marksfilesystem.h(150): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  MarksFileSystem VS.vcxproj -> E:\Git\MarksFileSystem\MarksFileSystem VS\Debug\MarksFileSystem VS.exe
